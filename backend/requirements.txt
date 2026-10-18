@@ -1,0 +1,7 @@
+fastapi>=0.110.0
+uvicorn>=0.28.0
+earthengine-api>=1.0.0
+geopandas
+pandas
+numpy
+python-multipart

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="100%" stop-color="#0284c7" />
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="48" fill="url(#grad)" />
+  <!-- Earth / Agriculture leaf & satellite motif -->
+  <path d="M50 18 C35 30 25 50 25 65 C25 78 35 84 50 84 C65 84 75 78 75 65 C75 50 65 30 50 18 Z" fill="#ffffff" opacity="0.95"/>
+  <path d="M50 22 C50 50 35 68 50 82 C65 68 50 50 50 22 Z" fill="#059669"/>
+  <circle cx="50" cy="50" r="8" fill="#fbbf24"/>
+</svg>
